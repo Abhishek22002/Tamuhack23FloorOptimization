@@ -2,9 +2,9 @@ from typing import List
 
 class floor():
 
-    def __init__(self, name:str, max_capacity:int) -> None:
+    def __init__(self, name:str, maxCapacity:int) -> None:
         self.name = name
-        self.max_capacity = max_capacity
+        self.maxCapacity = maxCapacity
 
 class team():
 
